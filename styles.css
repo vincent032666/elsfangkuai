@@ -80,14 +80,4 @@ button:hover {
 
 #restartBtn:hover {
     background-color: #0b7dda;
-}
-
-#startBtn {
-    background-color: white;
-    color: black;
-    border: 2px solid #ccc;
-}
-
-#startBtn:hover {
-    background-color: #f5f5f5;
 } 
